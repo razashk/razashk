@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- [RDP Brute-Force](https://github.com/razashk/Sentinel-Lab)
 - [Disk Sanitization](https://github.com/razashk/Disk-Sanitization)
 
 <h2> ⚡ Certifications:</h2> 
